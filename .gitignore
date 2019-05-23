@@ -41,3 +41,7 @@ octave-workspace
 
 #Ignore Presentations
 *.ppt
+
+
+#Ignore TIFF Photos
+*.tif
