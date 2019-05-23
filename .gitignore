@@ -4,6 +4,11 @@
 ### MATLAB ###
 # Windows default autosave extension
 *.asv
+conformal/*.asv
+fitting/*.asv
+leastsquare/*.asv
+levelling/*.asv
+resection&intersection/*.asv
 
 # OSX / *nix default autosave extension
 *.m~
@@ -35,6 +40,11 @@ octave-workspace
 
 #Ignore Text files which contain data of the programs
 *.txt
+conformal/*.txt
+fitting/*.txt
+leastsquare/*.txt
+levelling/*.txt
+resection&intersection/*.txt
 
 #Ignore PDFs
 *.pdf
