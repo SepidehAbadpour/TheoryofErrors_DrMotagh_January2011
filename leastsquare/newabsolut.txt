@@ -1,0 +1,11 @@
+pointnumber--major diameter--minor diameter--angle of major diameter with x axis--angle of minor diameter with x axis--eccentricity--area
+
+
+2-- 0.0754-- 0.0131-- 11.0000-- 101.0000-- 0.9848-- 0.0494
+
+3-- 0.1593-- 0.0695-- 299.5284-- 209.5284-- 0.8996-- 0.1653
+
+4-- 0.1300-- 0.0647-- 2.0342-- 92.0342-- 0.8677-- 0.1440
+
+5-- 0.2146-- 0.0614-- 21.6369-- 111.6369-- 0.9581-- 0.1804
+
