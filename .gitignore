@@ -55,3 +55,6 @@ resection&intersection/*.txt
 
 #Ignore TIFF Photos
 *.tif
+
+#Ignore Excel files
+leastsquare/*.xlsx
